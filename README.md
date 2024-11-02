@@ -3,13 +3,15 @@
 🤝 **Looking to Collaborate:** Front-end & back-end projects, especially in **responsive design**, **JavaScript frameworks**, or **RESTful APIs**.<br>  
 🌱 **Learning:** Advanced techniques in React and back-end solutions with Node.js & Express.<br>  
 🔍 **Ask me about:** Best practices in front-end development or building secure, scalable back-end systems.<br>  
-⚡ **Fun Fact:** Spent hours perfecting a single CSS transition just for that ‘perfect’ smoothness! 🎨
+⚡ **Fun Fact:** Spent hours perfecting a single CSS transition just for that 'perfect' smoothness! 🎨
 
 ---
 
 ## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
@@ -50,6 +52,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=codewith-rawad&theme=gruvbox&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
+---
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -60,4 +64,13 @@
 
 ---
 
+## 👁️ Visitor Count:
 [![](https://visitcount.itsvg.in/api?id=codewith-rawad&icon=0&color=6)](https://visitcount.itsvg.in)
+
+## 🎥 Animated Elements
+- Add animated GIFs or video previews of your project demos here for extra impact!
+  
+## ⚡ Extras
+- Incorporate CSS and JavaScript animations for engaging transitions on your personal portfolio!
+- Example project preview GIFs can be created with tools like **ScreenToGif** or **LICEcap** to showcase interaction.
+
